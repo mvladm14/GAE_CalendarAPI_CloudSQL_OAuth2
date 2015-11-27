@@ -10,6 +10,7 @@ Google App Engine that uses Google Calendar Api, stores events into CloudSQL and
 #To RUN the project on GAE
 
  > cd "project_location"
+ 
  > mvn clean install && appcfg.cmd -A <gae_project_id> update target/war
  
 #Check project (replace gappsassignment with <your_gae_project_id>)
