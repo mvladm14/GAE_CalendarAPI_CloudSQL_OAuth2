@@ -1,0 +1,11 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder' xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+
+  <g:VerticalPanel spacing='5'>
+    <g:Label styleName='title'>Events</g:Label>
+    <g:DecoratorPanel>
+      <g:FlexTable ui:field='eventsTable' cellPadding='3'
+        styleName='eventsTable'></g:FlexTable>
+    </g:DecoratorPanel>
+  </g:VerticalPanel>
+
+</ui:UiBinder>
