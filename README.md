@@ -13,5 +13,7 @@ Google App Engine that uses Google Calendar Api, stores events into CloudSQL and
  
  > mvn clean install && appcfg.cmd -A <gae_project_id> update target/war
  
-#Check project (replace gappsassignment with <your_gae_project_id>)
+#Check project
+(replace gappsassignment with your_gae_project_id)
+
 link: https://gappsassignment.appspot.com/
