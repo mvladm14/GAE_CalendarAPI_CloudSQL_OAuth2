@@ -26,11 +26,6 @@ import com.google.gwt.user.client.ui.RootPanel;
 import java.util.List;
 import java.util.logging.Logger;
 
-/**
- * Main entry-point for the Calendar GWT sample.
- * 
- * @author Yaniv Inbar
- */
 public class CalendarGwtSample implements EntryPoint {
 
   static final Logger log = Logger.getLogger(CalendarGwtSample.class.getName());
